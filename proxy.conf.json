@@ -1,0 +1,8 @@
+{
+"/api*": {
+    "target": "http://test.dev",
+    "changeOrigin": true,
+    "secure": false,
+    "logLevel": "debug"
+    }
+}  
